@@ -2,3 +2,7 @@ numpy
 nltk
 sklearn
 keras
+jieba
+zhon
+torch
+flask
